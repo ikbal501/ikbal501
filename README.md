@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ikbal_ahmedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikbal_ahmedd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ikbal ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbal ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ikbalahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbal ahmed" height="30" width="40" /></a>
 </p>
 
 ### 🛠 Languages & Tools:
